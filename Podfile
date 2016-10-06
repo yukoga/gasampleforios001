@@ -1,7 +1,7 @@
 # AnalyticsExample
 platform :ios, '7.0'
 pod 'Google/Analytics'
-pod 'Google/IDFASupport'
+pod 'GoogleIDFASupport'
 
 target 'AnalyticsExample' do
 end
